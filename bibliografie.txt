@@ -1,0 +1,7 @@
+https://wiki.python.org/moin/TcpCommunication
+https://realpython.com/python-sockets/
+https://devqa.io/encrypt-decrypt-data-python/
+https://nitratine.net/blog/post/encryption-and-decryption-in-python/
+https://pycryptodome.readthedocs.io/en/latest/src/random/random.html
+https://www.programcreek.com/python/example/95754/Crypto.Random.get_random_bytes
+https://stackoverflow.com/questions/20557999/xor-python-text-encryption-decryption/25475760
